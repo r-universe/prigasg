@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "printtree"]
+	path = printtree
+	url = https://github.com/prigasg/printtree
 [submodule "twbparser"]
 	path = twbparser
 	url = https://github.com/prigasg/twbparser
