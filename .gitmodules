@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "bs4Dashkit"]
+	path = bs4Dashkit
+	url = https://github.com/prigasg/bs4dashkit
 [submodule "printtree"]
 	path = printtree
 	url = https://github.com/prigasg/printtree
