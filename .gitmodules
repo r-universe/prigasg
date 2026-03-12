@@ -5,6 +5,9 @@
 [submodule "bs4Dashkit"]
 	path = bs4Dashkit
 	url = https://github.com/prigasg/bs4dashkit
+[submodule "glasstabs"]
+	path = glasstabs
+	url = https://github.com/prigasg/glasstabs
 [submodule "printtree"]
 	path = printtree
 	url = https://github.com/prigasg/printtree
